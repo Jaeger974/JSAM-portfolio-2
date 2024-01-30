@@ -1,0 +1,22 @@
+<html>
+<body>
+    <h1>All the Animals on the farm</h1>
+    <h2>Dog<br>
+        <image src= imagereasources/4.0+File+Paths/4.0+File+Paths/dog.png alt=dog /></h2>
+
+    <h2>
+        Cat <br>
+        <image src="imagereasources/4.0+File+Paths/4.0+File+Paths/Folder0/Folder3/cat.png" alt="cat"/>
+    </h2>
+    <h2>
+        Bird <br>
+        <image src= "Imagereasources/4.0+File+Paths/4.0+File+Paths/Folder1/Folder2/bird.png" alt="bird"/>
+    </h2>
+    <h2>
+        Fish <br><image src="Imagereasources/4.0+File+Paths/4.0+File+Paths/Folder1/fish.png" alt="fish"/>
+    </h2>
+    <h2>
+        Rabbit <br><image src="Imagereasources/4.0+File+Paths/4.0+File+Paths/Folder0/rabbit.png" alt="rabbit"/>
+    </h2>
+</body>
+</html>
